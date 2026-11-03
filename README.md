@@ -65,3 +65,7 @@ Seed logins: fac1-fac3 and s101-s112, password changeme123.
   set USE_MYSQL=1 DB_NAME=college DB_USER=root DB_PASSWORD=... before migrate.
 - Always run makemigrations api BEFORE the first migrate.
 - The frontend talks to http://localhost:8000/api by default; override with VITE_API.
+=======
+# Smart_College_Management-
+A Smart College Management System built using React.js and Django to manage students, faculty, attendance, marks, assignments, and academic activities through a centralized platform.
+>>>>>>> baf7ebc0ab63f9d91bf3278b2653d757ed034d92
