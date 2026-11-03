@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Django
+.env
+db.sqlite3
+staticfiles/
+
+# React
+node_modules/
+dist/
+
+# IDE
+.vscode/
+
+# Vercel
+.vercel/
